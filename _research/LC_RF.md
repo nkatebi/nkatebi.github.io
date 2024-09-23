@@ -9,7 +9,7 @@ title: ""
   <h2 style="font-size: 2em; text-align: left; margin-bottom: 20px;">Low-Cost Monitoring Technologies for Detecting Pregnancy Complications and Facilitating Timely Interventions in Low-Resource Settings</h2>
   
   <div style="text-align:center;">
-      <img src="/images/LC_fig.png" alt="Research Figure" style="width:100%; height:auto; margin-bottom:20px; border: 1px solid #ddd; padding: 10px;">
+      <img src="/images/LC_fig.png" alt="Research Figure" style="width:50%; height:auto; margin-bottom:20px; border: 1px solid #ddd; padding: 10px;">
   </div>
 
   <p style="line-height: 1.6; text-align: justify; margin-bottom: 20px;">
