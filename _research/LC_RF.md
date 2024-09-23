@@ -1,6 +1,6 @@
 ---
 layout: research
-title: "Low-Cost Monitoring Technologies for Detecting Pregnancy Complications and Facilitating Timely Interventions in Low-Resource Settings"
+title: ""
 ---
 
 <div style="width: 60%; margin: 0 auto;">
