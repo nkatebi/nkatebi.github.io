@@ -21,4 +21,4 @@ I am an Assistant Professor at the Department of Biomedical Informatics, School 
 
 -[September 2023] Dr. Katebi has appointed as Assistant Professor at...
 
--[July 2023] Dr. Nasim Katebi has received a K career development award.
+-[July 2023] Dr. Nasim Katebi has received a **K career development award**.
