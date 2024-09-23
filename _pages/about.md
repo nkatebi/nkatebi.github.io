@@ -16,6 +16,9 @@ I am an Assistant Professor at the Department of Biomedical Informatics, School 
 
 
 -[September 2024] Dr. Nasim Katebi featured on the [2024 Emory SOM Researcher Appreciation Day]((https://www.thrasherresearch.org/grant/02384?lang=eng).)
+
 -[May 2024] Dr. Nasim Katebi selected as Outdstading Faculy Research..
+
 -[September 2023] Dr. Katebi has appointed as Assistant Professor at...
+
 -[July 2023] Dr. Nasim Katebi has received a K career development award.
