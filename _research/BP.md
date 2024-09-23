@@ -9,7 +9,7 @@ title: ""
   <h2 style="font-size: 2em; text-align: left; margin-bottom: 20px;">Developing mHealth Solutions for Monitoring of Blood Pressure and Mental Health to Avoid Preventable Delays in Healthcare During the Postpartum Period</h2>
   
   <div>
-      <img src="/images/BP_fig.png" alt="Research Figure" style="width:100%; height:auto; margin-bottom:20px; border: 1px solid #ddd; padding: 10px; display: block; margin-left: auto; margin-right: auto;">
+      <img src="/images/BP_fig.png" alt="Research Figure" style="width:50%; height:auto; margin-bottom:20px; border: 1px solid #ddd; padding: 10px; display: block; margin-left: auto; margin-right: auto;">
   </div>
 
   <p style="line-height: 1.6; text-align: justify; margin-bottom: 20px;">
